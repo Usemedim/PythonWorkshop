@@ -51,3 +51,4 @@ print(f"Your score is: {score}%")
 #Fahrettin
 "Fahrettin's first contribution"
 "Fahrettin, 2nd"
+"Fahrettin, 3rd"
