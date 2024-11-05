@@ -49,4 +49,5 @@ score = int(score / len(questions) * 100)
 print(f"Your score is: {score}%")
 
 #Fahrettin
-print("Fahrettin's first contribution")
+"Fahrettin's first contribution"
+"Fahrettin, 2nd"
